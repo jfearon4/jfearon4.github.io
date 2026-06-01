@@ -24,13 +24,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "James D. Fearon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Geballe Professor in the School of Humanities and Sciences
+  Professor, Department of Political Science
+  Senior Fellow, Freeman-Spogli Institute
+  Stanford University"
+  location         : "Stanford, CA"
+  employer         : "Stanford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jfearon /at/ stanford.edu" 
 
   # Academic websites
   academia         : # URL
