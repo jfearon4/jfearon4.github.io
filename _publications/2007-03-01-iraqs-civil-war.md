@@ -1,0 +1,11 @@
+---
+title: "Iraq's Civil War"
+collection: publications
+category: manuscripts
+permalink: /publication/2007-03-01-iraqs-civil-war
+excerpt: ''
+date: 2007-03-01
+venue: 'Foreign Affairs'
+paperurl: '/files/fearon-2007-iraqs-civil-war.pdf'
+citation: '[Iraq''s Civil War](). <i>Foreign Affairs</i> 86, 2 (March/April 2007), 2-16.'
+---

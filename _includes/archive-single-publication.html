@@ -1,0 +1,6 @@
+{% include base_path %}
+
+<p class="publication-list-item">
+  {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
+  {% if post.paperurl %} <a href="{{ post.paperurl }}">[PDF]</a>{% endif %}
+</p>
