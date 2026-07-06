@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am the Geballe Professor in Stanford's School of Humanities and Sciences, and Professor in the Department of Political Science. Also, a Senior Fellow in the Freeman-Spogli Institute.
+I am Geballe Professor in Stanford's [School of Humanities and Sciences](https://humsci.stanford.edu/), and a Professor in the [Department of Political Science](https://politicalscience.stanford.edu/). 
+
+Also, a Senior Fellow in the [Freeman-Spogli Institute](https://fsi.stanford.edu/), affiliated with [CISAC](https://cisac.fsi.stanford.edu/) and [CDDRL](https://cddrl.fsi.stanford.edu/).
