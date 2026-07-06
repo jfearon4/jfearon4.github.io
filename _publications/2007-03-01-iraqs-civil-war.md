@@ -7,5 +7,5 @@ excerpt: ''
 date: 2007-03-01
 venue: 'Foreign Affairs'
 paperurl: '/files/fearon-2007-iraqs-civil-war.pdf'
-citation: '[Iraq''s Civil War](). <i>Foreign Affairs</i> 86, 2 (March/April 2007), 2-16.'
+citation: '[Iraq''s Civil War](https://www.foreignaffairs.com/articles/iraq/2007-03-01/iraqs-civil-war). <i>Foreign Affairs</i> 86, 2 (March/April 2007), 2-16.'
 ---

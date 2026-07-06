@@ -7,5 +7,5 @@ excerpt: ''
 date: 2005-08-01
 venue: 'Journal of Conflict Resolution'
 paperurl: '/files/fearon-2005-primary-commodity-exports-and-civil-war.pdf'
-citation: '[Primary Commodity Exports and Civil War](). <i>Journal of Conflict Resolution</i> 49, 4 (August 2005), 483-507.'
+citation: '[Primary Commodity Exports and Civil War](https://journals.sagepub.com/doi/10.1177/0022002705277544). <i>Journal of Conflict Resolution</i> 49, 4 (August 2005), 483-507.'
 ---

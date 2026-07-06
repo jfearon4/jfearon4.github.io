@@ -7,5 +7,5 @@ excerpt: ''
 date: 2004-06-01
 venue: 'Security Studies'
 paperurl: '/files/fearon-2004-separatist-wars-partition-and-world-order.pdf'
-citation: '[Separatist Wars, Partition, and World Order](). <i>Security Studies</i> 13, 4 (Summer 2004), 394-415.'
+citation: '[Separatist Wars, Partition, and World Order](https://www.tandfonline.com/doi/full/10.1080/09636410490945965). <i>Security Studies</i> 13, 4 (Summer 2004), 394-415.'
 ---

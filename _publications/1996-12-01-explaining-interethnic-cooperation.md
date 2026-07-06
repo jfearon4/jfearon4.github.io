@@ -7,5 +7,5 @@ excerpt: ''
 date: 1996-12-01
 venue: 'American Political Science Review'
 paperurl: '/files/fearon-1996-explaining-interethnic-cooperation.pdf'
-citation: '[Explaining Interethnic Cooperation]() (co-authored with David Laitin). <i>American Political Science Review</i> 90, 4 (December 1996), 715-735.'
+citation: '[Explaining Interethnic Cooperation](https://doi.org/10.2307/2945838) (co-authored with David Laitin). <i>American Political Science Review</i> 90, 4 (December 1996), 715-735.'
 ---
