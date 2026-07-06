@@ -23,7 +23,7 @@ repository               : "jfearon4/jfearon4.github.io/"  # "academicpages/acad
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "elrito.jpeg" #"profile.png"
+  avatar           : "elrito" #"profile.png"
   name             : "James D. Fearon"
   pronouns         : # example: "she/her"  
   bio              : # "Geballe Professor in the School of Humanities and Sciences \n
