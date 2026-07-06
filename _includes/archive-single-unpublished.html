@@ -1,0 +1,9 @@
+{% include base_path %}
+
+{% assign trimmed_content = post.content | strip %}
+
+<p class="publication-list-item">
+  {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
+  {% if post.paperurl %} <a href="{{ post.paperurl }}">[pdf]</a>{% endif %}
+  {% if trimmed_content != "" %} <a href="{{ base_path }}{{ post.url }}">[abstract]</a>{% endif %}
+</p>
