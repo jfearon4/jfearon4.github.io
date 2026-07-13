@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Geballe Professor in Stanford's [School of Humanities and Sciences](https://humsci.stanford.edu/), and a Professor in the [Department of Political Science](https://politicalscience.stanford.edu/). 
-
-Also, a Senior Fellow in the [Freeman-Spogli Institute](https://fsi.stanford.edu/), affiliated with [CISAC](https://cisac.fsi.stanford.edu/) and [CDDRL](https://cddrl.fsi.stanford.edu/).
+I am Geballe Professor in Stanford's [School of Humanities and Sciences](https://humsci.stanford.edu/); a Professor in the [Department of Political Science](https://politicalscience.stanford.edu/); and a Senior Fellow in the [Freeman-Spogli Institute](https://fsi.stanford.edu/), affiliated with [CISAC](https://cisac.fsi.stanford.edu/) and [CDDRL](https://cddrl.fsi.stanford.edu/).
 
 My research has focused mainly on political violence, civil and interstate war in particular. 
 
@@ -17,4 +15,4 @@ My research has focused mainly on political violence, civil and interstate war i
 
 I am also interested in, and have written off and on about, international relations theory; democracy and democratization; ethnic conflict; foreign aid and institution building; and post-conflict reconstruction.
 
-I am a member of the National Academy of Sciences (2012), the American Academy of Arts and Sciences (2002), and the Council on Foreign Relations. 
+I am a member of the National Academy of Sciences, the American Academy of Arts and Sciences, and the Council on Foreign Relations. 
