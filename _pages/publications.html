@@ -13,10 +13,22 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
+  <nav class="publication-category-nav">
+    {% assign nav_shown = false %}
+    {% for category in site.publication_category %}
+      {% assign cat_pubs = site.publications | where: "category", category[0] %}
+      {% if cat_pubs.size > 0 %}
+        {% if nav_shown %} &middot; {% endif %}
+        <a href="#{{ category[0] }}">{{ category[1].title }}</a>
+        {% assign nav_shown = true %}
+      {% endif %}
+    {% endfor %}
+  </nav>
+
   {% for category in site.publication_category  %}
     {% assign cat_pubs = site.publications | where: "category", category[0] | sort: "date" | reverse %}
     {% if cat_pubs.size > 0 %}
-      <h2>{{ category[1].title }}</h2><hr />
+      <h2 id="{{ category[0] }}">{{ category[1].title }}</h2><hr />
       <div class="publication-list">
         {% for post in cat_pubs %}
           {% include archive-single-publication.html %}
