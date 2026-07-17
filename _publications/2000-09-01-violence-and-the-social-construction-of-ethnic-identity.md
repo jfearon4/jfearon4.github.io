@@ -6,6 +6,5 @@ permalink: /publication/2000-09-01-violence-and-the-social-construction-of-ethni
 excerpt: ''
 date: 2000-09-01
 venue: 'International Organization'
-paperurl: '/files/fearon-2000-violence-and-the-social-construction-of-ethnic-identity.pdf'
 citation: '[Violence and the Social Construction of Ethnic Identity](https://doi.org/10.1162/002081800551398) (co-authored with David Laitin). <i>International Organization</i> 54, 4 (Autumn 2000), 845-877.'
 ---
