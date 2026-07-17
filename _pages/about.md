@@ -15,4 +15,4 @@ My research has focused mainly on political violence, civil and interstate war i
 
 I am also interested in, and have written off and on about, international relations theory; democracy and democratization; ethnic conflict; foreign aid and institution building; and post-conflict reconstruction.
 
-I am a member of the National Academy of Sciences, the American Academy of Arts and Sciences, and the Council on Foreign Relations. 
+I am a member of the [National Academy of Sciences](https://www.nasonline.org/), the [American Academy of Arts and Sciences](https://www.amacad.org/), and the [Council on Foreign Relations](https://www.cfr.org/). 
