@@ -8,6 +8,7 @@ author_profile: true
 <a id="understanding-intimate-partner-violence"></a>Understanding Intimate Partner Violence. *Annual Review of Political Science*, 2025.
 
 - [Data (CSV)](/files/data/fearon-understanding-intimate-partner-violence.csv)
+- [Supplemental Appendix (PDF)](/files/data/arps_SupplementalAppendix.pdf)
 
 <a id="cooperation-conflict-and-the-costs-of-anarchy"></a>Cooperation, Conflict, and the Costs of Anarchy. *International Organization*, 2018.
 
