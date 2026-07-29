@@ -4,3 +4,8 @@
   {{ post.citation | markdownify | remove: "<p>" | remove: "</p>" }}
   {% if post.paperurl %} <a href="{{ post.paperurl }}">[PDF]</a>{% endif %}
 </p>
+{% if post.replicationdata %}
+<ul class="pub-extra-links">
+  <li><a href="{{ post.replicationdata }}">Replication data</a></li>
+</ul>
+{% endif %}
