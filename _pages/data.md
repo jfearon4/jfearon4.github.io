@@ -15,7 +15,7 @@ author_profile: true
 
 <a id="civil-war-and-the-current-international-system"></a>Civil War and the Current International System. *Daedalus*, 2017.
 
-- [Data (CSV)](/files/data/fearon-civil-war-and-the-current-international-system.csv)
+- [Data (ZIP)](/files/data/fearon_daedalus_replication_data.zip)
 
 <a id="how-does-development-affect-collective-action-capacity"></a>How Does Development Affect Collective Action Capacity? Results from a Field Experiment in Post-Conflict Liberia. *American Political Science Review*, 2015.
 
@@ -23,21 +23,21 @@ author_profile: true
 
 <a id="ethnic-minority-rule-and-civil-war-onset"></a>Ethnic Minority Rule and Civil War Onset. *American Political Science Review*, 2007.
 
-- [Data (CSV)](/files/data/fearon-ethnic-minority-rule-and-civil-war-onset.csv)
+- [Data (CSV)](/files/data/apsr07repdata.csv)
 
 <a id="primary-commodity-exports-and-civil-war"></a>Primary Commodity Exports and Civil War. *Journal of Conflict Resolution*, 2005.
 
-- [Data (CSV)](/files/data/fearon-primary-commodity-exports-and-civil-war.csv)
+- [Data (ZIP)](/files/data/sxprepdata.zip)
 
 <a id="why-do-some-civil-wars-last-so-much-longer-than-others"></a>Why Do Some Civil Wars Last So Much Longer Than Others?. *Journal of Peace Research*, 2004.
 
-- [Data (CSV)](/files/data/fearon-why-do-some-civil-wars-last-so-much-longer-than-others.csv)
+- [Data (Stata)](/files/data/durrepdata.dta)
 
 <a id="ethnic-and-cultural-diversity-by-country"></a>Ethnic and Cultural Diversity by Country. *Journal of Economic Growth*, 2003.
 
-- [Data (CSV)](/files/data/fearon-ethnic-and-cultural-diversity-by-country.csv)
+- [Data (Stata)](/files/data/egroupsrepdata.dta)
 
 <a id="ethnicity-insurgency-and-civil-war"></a>Ethnicity, Insurgency, and Civil War. *American Political Science Review*, 2003.
 
-- [Data (CSV)](/files/data/fearon-ethnicity-insurgency-and-civil-war.csv)
+- [Data (ZIP)](/files/data/apsr03repdata.zip)
 - [Additional Tables (PDF)](/files/data/addtabs.pdf)
