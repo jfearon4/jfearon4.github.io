@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Replication Data"
+title: "Replication Data and Supplementary Information"
 permalink: /data/
 author_profile: true
 ---
