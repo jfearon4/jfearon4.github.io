@@ -96,6 +96,13 @@ publication_category:
   comments:
     title: 'Published Comments'
 
+# Unpublished Category - The following is the list of unpublished categories and their headings
+unpublished_category:
+  bookproject:
+    title: 'A book project'
+  manuscripts:
+    title: 'Unpublished Articles'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)

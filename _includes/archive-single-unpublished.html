@@ -7,3 +7,10 @@
   {% if post.paperurl %} <a href="{{ post.paperurl }}">[pdf]</a>{% endif %}
   {% if trimmed_content != "" %} <a href="{{ base_path }}{{ post.url }}">[abstract]</a>{% endif %}
 </p>
+{% if post.bullets %}
+<ul class="pub-extra-links">
+  {% for bullet in post.bullets %}
+  <li>{{ bullet | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+  {% endfor %}
+</ul>
+{% endif %}

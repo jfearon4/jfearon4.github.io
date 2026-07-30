@@ -7,9 +7,35 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="publication-list">
-  {% assign sorted_unpublished = site.unpublished | sort: "order" %}
-  {% for post in sorted_unpublished %}
-    {% include archive-single-unpublished.html %}
+{% if site.unpublished_category %}
+  <nav class="publication-category-nav">
+    {% assign nav_shown = false %}
+    {% for category in site.unpublished_category %}
+      {% assign cat_pubs = site.unpublished | where: "category", category[0] %}
+      {% if cat_pubs.size > 0 %}
+        {% if nav_shown %} &middot; {% endif %}
+        <a href="#{{ category[0] }}">{{ category[1].title }}</a>
+        {% assign nav_shown = true %}
+      {% endif %}
+    {% endfor %}
+  </nav>
+
+  {% for category in site.unpublished_category %}
+    {% assign cat_pubs = site.unpublished | where: "category", category[0] | sort: "order" %}
+    {% if cat_pubs.size > 0 %}
+      <h2 id="{{ category[0] }}">{{ category[1].title }}</h2><hr />
+      <div class="publication-list">
+        {% for post in cat_pubs %}
+          {% include archive-single-unpublished.html %}
+        {% endfor %}
+      </div>
+    {% endif %}
   {% endfor %}
-</div>
+{% else %}
+  <div class="publication-list">
+    {% assign sorted_unpublished = site.unpublished | sort: "order" %}
+    {% for post in sorted_unpublished %}
+      {% include archive-single-unpublished.html %}
+    {% endfor %}
+  </div>
+{% endif %}
